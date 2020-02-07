@@ -1,0 +1,394 @@
+"id"|"id_auteur"|"titre"|"genre"|"actes"|"prose_vers"|"prologue"|"musique_danse_machine"|"titre_alternatif"|"date_de_creation"
+18|{1}|Démocrite amoureux|comédie|5|vers|false|false||1700-01-12
+1345|{19}|Trois frères rivaux (Les)|comédie|1|vers|false|false||1713-08-04
+1346|{20}|Triple mariage (Le)|comédie|1|prose|false|true||1716-07-07
+1350|{21}|Esprit de contradiction (L')|comédie|1|prose|false|false||1700-08-27
+4834|{31}|Absalon|tragédie|5|vers|false|false||1712-04-07
+4836|{5}|Adélaïde du Guesclin|tragédie|5|vers|false|false||1734-01-18
+4842|{37}|Agrippa, roi d'Albe  /  le Faux Tiberinus (titre alt.)  / Tiberinus (titre alt.)|tragi-comédie|5|vers|false|false||
+4849|{5}|Alzire ou les Américains|tragédie|5|vers|false|false||1736-01-27
+4851|{45}|Amasis|tragédie|5|vers|false|false||1701-12-13
+4856|{49}|Amour pour amour|comédie|3|vers|true|true||1742-02-16
+4857|{2}|Amphitryon|comédie|3|vers libres|true|true||
+4858|{15}|Andromaque|tragédie|5|vers|false|false||
+4859|{50}|Andronic|tragédie|5|vers|true|false||1685-02-08
+4860|{51}|Annibal /  La Mort d'Annibal (titre alt.)|tragédie|5|vers|false|true||1720-12-16
+4865|{56}|Ariane|tragédie|5|vers|false|false||
+4869|{37}|Astrate, roi de Tyr|tragédie|5|vers|false|false||
+4872|{15}|Athalie|tragédie|5|vers|false|true||1691-01-05
+4873|{63}|Antoine et Cléopâtre|tragédie|5|vers|false|false||1741-11-06
+4874|{64}|Atrée et Thyeste|tragédie|5|vers|false|false||1707-03-14
+4875|{21}|Attendez-moi sous l’orme|comédie|1|prose|false|true||1694-05-19
+4879|{15}|Bajazet|tragédie|5|vers|false|false||
+4881|{15}|Bérénice|tragédie|5|vers|false|false||
+4885|{15}|Britannicus|tragédie|5|vers|false|false||
+4886|{5}|Brutus|tragédie|5|vers|false|false||1730-12-11
+4894|{71}|Cinna ou la Clémence d'Auguste|tragédie|5|vers|false|false||
+4897|{14}|Colin-Maillard|comédie|1|prose|false|true||1701-10-28
+4903|{76}|Crispin bel esprit|comédie|1|vers|false|false||1681-07-11
+4904|{77}|Crispin médecin|comédie|3|vers|false|false||
+4907|{79}|Crispin rival de son maître|comédie|1|prose|false|false||1707-03-15
+4911|{81}|Deucalion et Pirrha|comédie|1|prose|true|true||1741-02-20
+4912|{82}|Didon|tragédie|5|vers|false|false||1734-06-21
+4914|{83}|Don Japhet d'Arménie|comédie|5|vers|false|true||
+4915|{84}|Dom Pasquin d'Avalos|intermède|1|vers|false|false||
+4916|{71}|Don Sanche d'Aragon|comédie héroïque|5|vers|false|false||
+4922|{64}|Électre|tragédie|5|vers|false|false||1708-12-14
+4926|{89}|Ésope à la cour|comédie héroïque|5|vers|true|false||1701-12-16
+4932|{2}|George Dandin ou le Mari confondu|comédie|3|prose|false|true||
+4934|{91}|Gustave Wasa|tragédie|5|vers|false|false||1733-02-03
+4937|{71}|Héraclius, empereur d'Orient|tragédie|5|vers|false|false||
+4940|{5}|Hérode et Mariamne ;  Mariamne (titre initial)|tragédie|5|vers|false|false||1725-04-10
+4943|{71}|Horace / Les Horaces (titre alt.)|tragédie|5|vers|false|false||
+4946|{97}|Hypermnestre|tragédie|5|vers|false|false||1704-02-13
+4948|{98}|Inès de Castro|tragédie|5|vers|false|false||1723-04-06
+4949|{45}|Ino et Mélicerte|tragédie|5|vers|false|false||1713-03-10
+4950|{15}|Iphigénie ou Iphigénie en Aulide|tragédie|5|vers|false|false||
+4958|{83}|Jodelet, ou le Maître valet|comédie|5|vers|false|false||
+4965|{}|Cavalcade (La)|divertissement|1|""|false|true||1737-11-22
+4968|{2}|Comtesse d'Escarbagnas (La)|comédie|1|prose|false|true||
+4969|{56}|Comtesse d'Orgueil (La) / Le Marquis de Lorgnac (titre alt.)|comédie|5|vers|false|false||1653-01-28
+4971|{21}|Coquette de village ou le Lot supposé (La)|comédie|3|vers|false|false||1715-05-27
+4972|{109}|Coquette et la fausse prude (La)|comédie|5|prose|false|false||1686-12-28
+4973|{111,110}|Coupe enchantée (La)|comédie|1|prose|false|false||1688-07-16
+4978|{115}|Famille extravagante (La)|comédie|1|vers|false|true||1709-06-07
+4980|{49}|Fausse antipathie (La)|comédie|3|vers|true|false||1733-10-02
+4985|{84}|Femme juge et partie (La) / Femme juge (La) (titre alt.)|comédie|5|vers|false|false||
+4987|{14}|Fête de village ou les Bourgeoises de qualité (La)|comédie|3|prose|false|true||1700-07-13
+4989|{84}|Fille capitaine (La)|comédie|5|vers|false|false||
+4991|{115}|Foire de Saint-Laurent (La)|comédie|1|vers|false|true||1709-09-20
+5001|{125}|Magie de l'Amour (La)|comédie-pastorale|1|vers libres|false|true||1735-05-09
+5002|{14}|Maison de campagne (La)|comédie|1|prose|false|false||1688-08-27
+5006|{37}|Mère coquette ou les Amants brouillés (La)|comédie|5|vers|false|false||
+5008|{115}|Métamorphose amoureuse (La)|comédie|1|prose|false|false||1712-08-06
+5010|{91}|Métromanie ou le Poète (La)|comédie|5|vers|false|false||1738-01-10
+5012|{5}|Mort de César (La)|tragédie|3|vers|false|false||1743-08-29
+5014|{71}|Mort de Pompée (La)|tragédie|5|vers|false|false||
+5016|{115}|Nouveauté (La)|comédie|1|prose|false|true||1727-01-13
+5017|{14}|Parisienne (La)|comédie|1|prose|false|false||1691-06-13
+5021|{2}|Princesse d'Élide (La)|comédie-ballet|5|prose|true|true||
+5022|{18}|Pupille (La)|comédie|1|prose|false|true||1734-07-05
+5023|{21}|Réconciliation normande (La)|comédie|5|vers|false|false||1719-03-01
+5029|{51}|Seconde surprise de l'amour (La) / La Surprise de l'amour (titre alt.)|comédie|3|prose|false|false||1727-12-31
+5030|{1}|Sérénade (La)|comédie|1|prose|false|true||1694-07-03
+5042|{20}|Ambitieux et l'indiscrète (L')|tragi-comédie|5|vers|true|false||1737-06-14
+5045|{115}|Amour diable (L')|comédie|1|vers|false|true||1708-06-30
+5049|{2}|Amour médecin (L') / Les Médecins / Les 4 Médecins (titre alt.)|comédie-ballet|3|prose|true|true||
+5050|{20}|Amour usé (L')|comédie|5|prose|false|false||1741-09-20
+5051|{109}|Andrienne (L')|comédie|5|vers|false|false||1703-11-16
+5059|{2}|Avare (L')|comédie|5|prose|false|false||
+5060|{144}|Avare amoureux (L')|comédie|1|prose|false|false||1729-07-06
+5062|{115}|Aveugle clairvoyant (L')|comédie|1|vers|false|false||1716-09-18
+5064|{147}|Avocat Patelin (L')|comédie|3|prose|false|false||1706-06-04
+5065|{118}|Babillard (Le)|comédie|1|vers|false|false||1725-06-16
+5067|{56}|Baron d'Albikrac (Le)|comédie|5|vers|false|false||
+5068|{148}|Baron de la Crasse (Le)|comédie|1|vers|false|true||
+5072|{14}|Bon soldat (Le)|comédie|1|vers|false|true||1691-10-10
+5073|{2}|Bourgeois gentilhomme (Le)|comédie-ballet|5|prose|false|true||
+5080|{14}|Charivari (Le)|comédie|1|prose|false|true||1697-09-19
+5086|{71}|Cid (Le)|tragi-comédie / tragédie|5|vers|false|false||
+5088|{155}|Complaisant (Le)|comédie|5|prose|false|true||1732-12-29
+5091|{135}|Comte de Warwick (Le)|tragédie|5|vers|false|false||1742-11-28
+5092|{56}|Comte d'Essex (Le)|tragédie|5|vers|false|false||
+5093|{114}|Concert (Le)|comédie|1|prose|false|true||1747-11-16
+5094|{157}|Concert ridicule (Le) / Le Concert (titre alt.)|comédie|1|prose|false|true||1689-09-14
+5096|{159}|Consentement forcé (Le)|comédie|1|prose|false|true||1738-08-13
+5099|{20}|Curieux impertinent (Le)|comédie|5|vers|false|false||1710-11-17
+5100|{21}|Dédit (Le)|comédie|1|vers|false|false||1719-05-12
+5102|{51}|Dénouement imprévu (Le)|comédie|1|prose|false|true||1724-03-06
+5103|{2}|Dépit amoureux (Le)|comédie|5|vers|false|false||
+5104|{77}|Deuil (Le)|comédie|1|vers|false|true||
+5106|{1}|Distrait (Le)|comédie|5|vers|false|false||1697-12-02
+5107|{21}|Double veuvage (Le)|comédie|3|prose|true|true||1702-03-08
+5112|{155}|Fat puni (Le)|comédie|1|prose|false|true||1738-04-14
+5116|{165}|Le Faux savant ou l'Amant précepteur |comédie|3|prose|false|false||1728-06-21
+5117|{2,166}|Festin de Pierre (Le)|comédie|5|vers|false|false||1677-02-12
+5121|{110}|Florentin (Le)|comédie|1|vers|false|false||1685-07-23
+5122|{118}|Français à Londres (Le)|comédie|1|prose|false|false||1727-07-03
+5123|{115}|Galant coureur ou l'Ouvrage d'un moment (Le)|comédie|1|prose|false|true||1722-08-11
+5124|{14}|Galant jardinier (Le)|comédie|1|prose|false|true||1704-10-22
+5126|{20}|Glorieux (Le)|comédie|5|vers|false|false||1732-01-18
+5127|{157}|Grondeur (Le)|comédie|3|prose et vers libres|true|false||1691-02-03
+5131|{50}|Jaloux désabusé (Le)|comédie|5|vers|false|false||1709-12-13
+5134|{1}|Joueur (Le)|comédie|5|vers|false|false||1696-12-19
+5136|{1}|Légataire universel (Le)|comédie|5|vers|false|false||1708-01-09
+5137|{51}|Legs (Le)|comédie|1|prose|false|false||1736-06-11
+5138|{98}|Magnifique (Le)|comédie|2|prose|false|true||1731-05-11
+5140|{2}|Malade imaginaire (Le)|comédie-ballet|3|vers|true|true||
+5144|{14}|Mari retrouvé (Le)|comédie|1|prose|false|true||1698-10-29
+5145|{84}|Mari sans femme (Le)|comédie|5|vers|false|true||
+5148|{21}|Mariage fait et rompu (Le)|comédie|3|vers|false|false||1721-02-14
+5149|{2}|Mariage forcé (Le)|comédie|1|prose|false|true||
+5155|{2}|Médecin malgré lui (Le) / Le Médecin forcé (titre alt.)|comédie|3|prose|false|true||
+5157|{20}|Médisant (Le)|comédie|5|vers|false|false||1715-02-20
+5158|{71}|Menteur (Le)|comédie|5|vers|false|false||
+5159|{89}|Mercure galant (Le) ou la Comédie sans titre / La Pièce sans titre (titre alt.)|comédie|5|vers|false|true||1683-03-05
+5160|{2}|Misanthrope (Le)|comédie|5|vers|false|false||
+5161|{14}|Moulin de Javelle (Le)|comédie|1|prose|false|true||1696-07-07
+5162|{147}|Muet (Le)|comédie|5|prose|false|false||1691-06-22
+5163|{177}|Muet par amour (Le)|comédie|1|vers|false|true||1751-10-20
+5164|{19}|Naufrage ou la Pompe funèbre de Crispin (Le) / Crispin brûlé (titre alt.)|comédie|1|vers|false|true||1710-06-14
+5165|{178}|Nouveau monde (Le)|comédie|3|vers libres|true|true||1722-09-11
+5170|{115}|Philanthrope ou l'Ami de tout le monde (Le)|comédie|1|prose|false|true||1724-02-19
+5172|{20}|Philosophe marié ou le Mari honteux de l'être (Le)|comédie|5|vers|false|false||1727-02-15
+5175|{182}|Port de mer (Le)|comédie|1|prose|false|true||1704-05-27
+5177|{49}|Préjugé à la mode (Le)|comédie|5|vers|false|false||1735-02-03
+5181|{184}|Procureur arbitre (Le)|comédie|1|vers|false|false||1728-02-25
+5184|{18}|Rendez-vous ou l'Amour supposé (Le)|comédie|1|vers|false|false||1733-05-27
+5185|{14}|Retour des officiers (Le)|comédie|1|prose|false|true||1697-10-19
+5187|{1}|Retour imprévu (Le)|comédie|1|prose|false|false||1700-02-11
+5190|{115}|Roi de Cocagne (Le)|comédie|3|vers libres|true|true||1718-12-31
+5192|{118}|Sage étourdi (Le) ou L'Homme indépendant|comédie|3|vers|false|false||1741-03-03
+5195|{2}|Sicilien ou l'Amour peintre (Le)|comédie-ballet|1|prose|false|true||
+5197|{155}|Somnambule (Le)|comédie|1|prose|false|false||1739-01-14
+5200|{115}|Le Temps passé ou le Triomphe du temps passé (Le)|comédie|1|prose|false|true||1724-10-18
+5203|{115}|Triomphe du temps (Le)|divertissement comique|3|prose|true|true||1724-10-18
+5206|{14}|Tuteur amoureux (Le) ou Le Tuteur|comédie|1|prose|false|false||1695-07-13
+5215|{49}|École des amis (L')|comédie|5|vers|false|false||1737-02-25
+5216|{190}|École des bourgeois (L')|comédie|3|prose|true|false||1728-09-20
+5217|{2}|École des femmes (L')|comédie|5|prose|false|false||
+5218|{2}|École des maris (L')|comédie|3|prose|false|false||
+5221|{91}|École des pères ou les Fils ingrats (L')|comédie|5|vers|false|false||1728-10-21
+5226|{5}|Enfant prodigue ou L'École de la jeunesse (L')|comédie|5|vers|false|false||1736-10-10
+5230|{51}|Épreuve (L')|comédie|1|prose|false|false||
+5234|{115}|Épreuve réciproque (L')|comédie|1|prose|false|false||1711-10-06
+5240|{115,197}|Amazones modernes (Les) ou Le Triomphe des dames|comédie|3|prose|false|true|Triomphe des Dames |1727-10-29
+5245|{14}|Bourgeoises à la mode (Les)|comédie|5|prose|false|false||1692-11-15
+5255|{118}|Dehors trompeurs ou l'Homme du jour (Les)|comédie|5|vers|false|false||1740-02-18
+5260|{118}|Deux nièces (Les)|comédie|5|vers|false|false||1737-01-24
+5268|{89}|Ésope (titre alt.) / Fables d'Ésope ou Ésope à la ville (Les)|comédie|5|vers et vers libres|true|false||1690-01-18
+5276|{2}|Femmes savantes (Les)|comédie|5|vers|false|false||
+5277|{1}|Folies amoureuses (Les)|comédie|3|vers et vers libres|true|true||1704-01-15
+5278|{2}|Fourberies de Scapin (Les)|comédie|3|prose|false|false||
+5282|{98}|Machabées (Les)|tragédie|5|vers|false|false||1721-03-06
+5284|{1}|Ménechmes ou les Jumeaux (Les)|comédie|5|vers et vers libres|true|false||1705-12-04
+5291|{18}|Originaux (Les) - Troisième partie des Caractères de Thalie|comédie|1|prose|false|true||1737-07-18
+5292|{115}|Paniers ou la Vieille précieuse (Les) / Les Poupées (titre alt.)|comédie|1|prose|false|true||1723-02-25
+5294|{15}|Plaideurs (Les)|comédie|3|vers|false|false||
+5295|{2}|Précieuses ridicules (Les)|comédie|1|prose|false|true||
+5300|{184}|Ruses d'Amour (Les)|comédie|3|vers|false|false||1736-04-30
+5303|{14}|Trois cousines (Les)|comédie|3|prose|true|true||1700-10-18
+5305|{182}|Trois Gascons (Les)|comédie|1|prose|false|true||1701-06-04
+5309|{14}|Vacances (Les) / Les Vacances des procureurs (titre alt.)|comédie|1|prose|false|true||1696-10-31
+5311|{14}|Vendanges de Suresnes (Les)|comédie|1|prose|false|true||1695-10-15
+5316|{77}|Esprit follet ou la Dame invisible (L')|comédie|5|vers|false|false||1684-02-22
+5318|{18}|Étourderie (L')|comédie|1|prose|false|false||1737-07-18
+5319|{2}|Étourdi ou les Contretemps (L')|comédie|5|vers|false|false||
+5322|{109}|Homme à bonnes fortunes (L') / L'Homme à bonne fortune (titre alt).|comédie|5|prose|false|false||1686-01-31
+5328|{81}|Île sauvage (L')|comédie|3|prose|true|true||1743-07-08
+5332|{147}|Important de cour (L') ou Important (L')|comédie|5|prose|false|false||1693-12-16
+5333|{184}|Impromptu de campagne (L')|comédie|1|vers|false|false||1733-12-21
+5340|{5}|Indiscret (L')|comédie|1|vers|false|false||1725-08-18
+5341|{20}|Ingrat (L')|comédie|5|vers|false|false||1712-01-28
+5342|{18}|Inquiet (L')|comédie|1|vers|false|false||1737-07-18
+5344|{20}|Obstacle imprévu ou l'Obstacle sans obstacle (L')|comédie|5|prose|false|false||1717-10-18
+5347|{81}|Oracle (L')|comédie|1|prose|false|true||1740-03-22
+5354|{115}|Usurier gentilhomme (L')|comédie|1|prose|false|true||1713-09-11
+5356|{5}|Fanatisme ou Mahomet le prophète (Le)|tragédie|5|vers|false|false||1742-08-09
+5357|{108}|Mahomet second|tragédie|5|vers|false|false||1739-02-23
+5359|{223}|Manlius Capitolinus|tragédie|5|vers|false|false||1698-01-18
+5361|{224}|Marius|tragédie|5|vers|false|false||1715-11-15
+5363|{225}|Médée ou Médée et Jason|tragédie|5|vers|false|false||1694-02-13
+5367|{49}|Mélanide|comédie|5|vers|false|false||1741-05-12
+5370|{5}|Mérope|tragédie|5|vers|false|false||1743-02-20
+5372|{15}|Mithridate|tragédie|5|vers|false|false||
+5374|{197}|Momus fabuliste ou les Noces de Vulcain ou Momus fabuliste ou le Mariage de Vénus et de Vulcain|comédie|1|prose et vers libres|false|true||1719-09-26
+5376|{2}|Monsieur de Pourceaugnac|comédie-ballet|3|prose|false|true||
+5382|{71}|Nicomède|tragédie|5|vers|false|false||
+5385|{5}|Œdipe|tragédie|5|vers|false|false||1718-11-18
+5396|{15}|Phèdre et Hippolyte ou Phèdre|tragédie|5|vers|false|false||
+5401|{71}|Polyeucte, martyr |tragédie|5|vers|false|false||
+5405|{64}|Pyrrhus|tragédie|5|vers|false|false||1726-04-29
+5409|{64}|Rhadamiste et Zénobie|tragédie|5|vers|false|false||1711-01-23
+5412|{71}|Rodogune ou Rodogune, princesse des Parthes|tragédie|5|vers|false|false||
+5421|{71}|Sertorius|tragédie|5|vers|false|false||
+5422|{2}|Sganarelle ou le Cocu imaginaire|comédie|1|vers|false|false||
+5427|{2}|Tartuffe ou l'Imposteur|comédie|5|vers|false|false||
+5433|{79}|Turcaret|comédie|5|prose|false|false||1709-02-14
+5436|{242}|Venceslas|tragédie|5|vers|false|false||
+5441|{5}|Zaïre|tragédie|5|vers|false|false||1732-08-13
+5446|{135}|Zénéïde|comédie|1|vers|false|true||1743-05-13
+5449|{5}|Zulime|tragédie|5|vers|false|false||1740-06-08
+5451|{245,56}|Inconnu (L')|comédie|5|vers|true|true||1675-11-17
+5452|{246}|Aben-Saïd, empereur des Mogols|tragédie|5|vers|false|false||1735-06-06
+5453|{159}|Achille dans l'île de Scyros|comédie héroïque|3|vers|false|false||1737-10-10
+5456|{248,247}|Aégiste|tragédie|5|vers|false|false||1721-11-18
+5463|{118}|Admète et Alceste / La Mort d'Alceste (titre alt.)|tragédie|5|vers|false|false||1727-01-25
+5464|{184}|Alcibiade|comédie|3|vers|false|false||1731-02-23
+5465|{50}|Alcibiade|tragédie|5|vers|false|false||1685-12-28
+5468|{184}|Amour secret (L')|comédie|1|vers|false|false||1740-10-05
+5473|{252}|Antiochus et Cléopâtre|tragédie|5|vers|false|false||1717-10-29
+5474|{253}|Antiochus ou Les Macchabées|tragédie|5|vers|false|false||1721-12-06
+5480|{178}|Artaxare|tragédie|5|vers|false|false||1718-05-03
+5482|{252}|Artaxerce|tragédie|5|vers|false|false||1735-12-19
+5483|{5}|Artémire|tragédie|5|vers|false|false||1720-02-15
+5485|{45}|Athénaïs|tragédie|5|vers|false|false||1699-11-20
+5487|{259}|Bajazet premier|tragédie|5|vers|false|false||1739-08-06
+5488|{260}|Basile et Quitterie|tragi-comédie|3|vers|true|true||1723-01-13
+5492|{91}|Callisthène|tragédie|5|vers|false|false||1730-02-18
+5494|{115}|Cartouche ou les Voleurs|comédie|3|prose|false|true||1721-10-21
+5495|{45}|Cassius et Victorinus martyrs|tragédie|5|vers|false|false||1732-10-06
+5498|{227}|Childéric|tragédie|5|vers|false|false||1736-12-19
+5499|{262}|Cléarque, tyran d'Héraclée|tragédie|5|vers|false|false||1717-11-26
+5500|{251}|Cléopâtre|tragédie|5|vers|false|false||1681-12-12
+5503|{263}|Coriolan|tragédie|5|vers|false|false||1722-02-28
+5507|{77}|Crispin musicien|comédie|5|vers|false|true||
+5511|{56}|Don Bertrand de Cigarral|comédie|5|vers|false|true||
+5513|{267}|Don Ramire et Zaïde|tragédie|5|vers|false|false||1728-01-24
+5514|{175}|Édouard III|tragédie|5|vers|false|false||1740-01-22
+5515|{225}|Électre|tragédie|5|vers|false|false||1719-02-22
+5517|{45}|Érigone|tragédie|5|vers|false|false||1731-12-17
+5518|{5}|Ériphile|tragédie|5|vers|false|false||1732-03-07
+5519|{269}|Ésope au Parnasse|comédie|1|vers|false|true||1739-10-14
+5523|{272}|Géta|tragédie|5|vers|false|false||1687-01-29
+5524|{262}|Habis|tragédie|5|vers|false|false||1714-04-17
+5530|{274,110}|Je vous prends sans verd /  Le Contrat (titre alt.)|comédie|1|vers|false|true||1693-05-01
+5531|{18}|Joconde|comédie|1|prose|false|true||1740-11-05
+5536|{45}|Accommodement imprévu (L')|comédie|1|vers|false|false||1737-11-12
+5537|{118}|Amant de sa femme ou la Rivale d'elle-même (L')|comédie|1|prose|false|false||1721-09-19
+5541|{275}|Amante en tutelle (L')|comédie|3|vers|true|false||1735-08-17
+5542|{18}|Amitié rivale (L')|comédie|5|vers|false|false||1735-11-16
+5543|{19}|Amour vengé (L')|comédie|1|vers|false|false||1712-10-14
+5544|{148}|Après-souper des auberges (L') / Les Auberges (titre alt.)|comédie|1|vers|false|true||
+5545|{9}|Assemblée des comédiens (L')|prologue|1|""|true|false||1724-09-22
+5548|{14}|Éclipse (L')|comédie|1|prose|false|true||1724-06-08
+5549|{178}|École de l'hymen (L')|comédie|3|prose/vers|true|true||1737-09-28
+5550|{277}|École des amants (L')|comédie|3|vers|false|false||1718-10-18
+5551|{84}|École des jaloux ou le Cocu volontaire (L') / La Fausse Turquie (titre alt.) / La Turquie (titre alt.) / Le Grand Turc (titre alt.)|comédie|3|vers|false|false||
+5552|{7}|École du monde (L')|dialogue|1|vers|true|false||1739-10-14
+5554|{270}|Effet de la prévention (L')|comédie|1|prose|false|true||1731-02-10
+5555|{20}| Belle orgueilleuse ou l'Enfant gâté (La)|comédie|1|prose|false|false||1741-08-17
+5558|{20}|Envieux ou la Critique du Philosophe marié (L')|comédie|1|prose|false|false||1727-05-03
+5560|{14}|Été des coquettes (L')|comédie|1|prose|false|true||1690-07-12
+5562|{278}|Heure du berger (L')|comédie|1|prose|false|true||1737-11-12
+5563|{270}|Heureux échange (L')|comédie|5|vers|false|false||1740-10-22
+5565|{51}|Île de la raison ou les Petits hommes (L')|comédie|3|prose|true|true||1727-09-11
+5566|{118}|Impatient (L')|comédie|5|vers|true|false||1724-01-26
+5567|{118}|Impertinent malgré lui (L')|comédie|5|vers|false|false||1729-05-14
+5568|{115}|Impromptu de la folie (L')|ambigu-comique|2|prose|true|true||1725-11-05
+5572|{98}|Italie galante ou les contes (L')|ambigu-comique|3|prose|true|true||1731-05-11
+5573|{7}|Ombre de Molière (L')|prologue|1|vers|false|false||1739-10-14
+5578|{147}|Opiniâtre (L')|comédie|3|vers|false|false||1722-05-19
+5579|{280}|Oracle de Delphes (L')|comédie|3|vers|false|false||1722-12-17
+5582|{14}|Belle-mère (La)|comédie|5|vers|false|false||1725-04-21
+5583|{184}|Boîte de Pandore (La)|comédie|1|prose|false|false||1729-03-18
+5585|{115}|Chasse du cerf (La)|comédie-ballet|3|prose|true|true||1726-10-14
+5587|{14}|Comédie des comédiens ou l'Amour charlatan (La)|comédie|3|prose|false|true||1710-08-05
+5590|{281}|Comtesse de Follenville (La)|comédie|1|prose|false|false||1720-10-11
+5592|{282}|Critique de la Fausse antipathie (La)|comédie|1|prose/vers|false|false||1734-03-11
+5596|{245,56}|Devineresse ou les Faux enchantements  (La)|comédie|5|prose|false|true||
+5599|{14}|Enfants de Paris (Les) ou Famille à la mode (La) ou Finette|comédie|5|vers|false|false||1699-12-18
+5600|{190}|Fausse comtesse (La)|comédie|1|prose|false|true||1726-07-27
+5601|{178}|Fausse inconstance (La)|comédie|3|vers|false|false||1732-09-15
+5603|{14}|Femme d'intrigues (La)|comédie|5|prose|false|false||1692-01-30
+5609|{14}|Foire de Bezons (La)|comédie|1|prose|false|true||1695-08-13
+5613|{115}|Française italienne (La)|comédie|1|prose|false|true||1725-11-05
+5615|{18}|Grondeuse (La)|comédie|1|prose|false|true||1734-02-11
+5616|{14}|Guinguette de la finance (La)|comédie|1|prose|false|true||1716-05-19
+5624|{288}|Méprise (La)|comédie|1|prose|true|false||1739-11-14
+5626|{14}|Dieux comédiens ou la Métempsycose des amours (Les)|comédie|3|vers|true|true||1717-12-17
+5640|{293}|Rencontre imprévue (La)  ou la Surprise des amants (La)|comédie|3|prose|false|false||1735-10-14
+5642|{294}|Caprice et la Ressource (Le) /  le Prologue (titre alt.)|prologue|1|vers|false|false||1732-10-01
+5643|{51}|Réunion des amours (La)|comédie héroïque|1|prose|false|false||1731-11-05
+5645|{288}|Suivante désintéressée (La)|comédie|1|prose|true|false||1739-11-14
+5646|{15}|Thébaïde ou les Frères ennemis (La)|tragédie|5|vers|false|false||
+5648|{295}|Tragédie en prose ou la Tragédie extravagante (La)|comédie|1|prose|false|true||1730-05-04
+5649|{14}|Trahison punie (La)|comédie|5|vers|false|false||1707-11-28
+5650|{277}|Vengeance de l'amour (La)|comédie|5|vers|false|false||1721-12-04
+5655|{118}|Badinage (Le)|comédie|1|vers|false|false||1733-11-23
+5658|{273}|Ballet extravagant (Le)|comédie|1|prose|false|true||1690-06-21
+5664|{270}|Cadet de Gascogne (Le)|comédie|1|""|false|false||1715-10-11
+5666|{297}|Camp de Porché-Fontaine (Le)|comédie|1|prose|false|true||1722-10-09
+5670|{14}|Chevalier à la mode (Le)|comédie|5|prose|false|false||1687-10-24
+5671|{125}|Chevalier Bayard (Le)|comédie héroïque|5|vers|false|false||1731-11-23
+5673|{77}|Cocher supposé (Le)|comédie|1|prose|false|false||1684-06-09
+5674|{84}|Comédien poète (Le) / Soeur ridicule (titre alt.). |comédie|5|vers|false|true||
+5680|{178}|Divorce de l'amour et de la raison ou le Vieux monde (Le)|comédie|3|vers|true|true||1723-09-01
+5681|{300}|Divorce ou les Époux mécontents (Le)|comédie|3|vers|true|true||1730-04-29
+5683|{256}|Faucon (Le)|comédie|1|vers|false|false||1719-09-01
+5687|{21}|Faux sincère (Le)|comédie|5|vers|false|false||1731-06-16
+5689|{296}|Flatteur (Le)|comédie|5|prose|false|false||1696-11-24
+5690|{148}|Fou de qualité (Le) ou Le Fou raisonnable|comédie|1|vers|false|true||
+5693|{56}|Geôlier de soi-même ou Jodelet prince (Le)|comédie|5|vers|false|false||
+5695|{109}|Jaloux (Le)|comédie|5|vers|false|false||1687-12-17
+5702|{190}|Mari curieux (Le)|comédie|1|prose|false|true||1731-07-17
+5703|{288}|Mari égaré (Le)|comédie|1|prose|true|false||1739-11-14
+5706|{184}|Mariage fait par lettre de change (Le)|comédie|1|vers|false|true||1735-07-13
+5707|{18}|Marié sans le savoir (Le)|comédie|1|prose|false|false||1740-01-08
+5709|{159}|Médecin de l'esprit (Le)|comédie|1|prose|false|false||1739-10-14
+5712|{21}|Négligent (Le)|comédie|3|prose|true|true||1692-02-27
+5716|{303}|Paresseux (Le)|comédie|3|vers|true|false||1733-04-28
+5717|{274}|Parisien (Le)|comédie|5|vers|false|false||1682-02-07
+5718|{178}|Pastor-fido (Le)|pastorale héroïque|3|vers|true|false||1726-09-07
+5719|{178}|Père intéressé ou les Vrais amis (Le)|comédie|5|vers|false|false||1720-11-26
+5723|{51}|Petit-maître corrigé (Le)|comédie|3|prose|false|false||1734-11-06
+5725|{118}|Pouvoir de la sympathie (Le)|comédie|3|vers|false|false||1738-07-05
+5726|{144}|Prince de Noisy (Le)|comédie héroïque|3|prose|true|true||1730-11-04
+5727|{14}|Prix de l'arquebuse (Le)|comédie|1|prose|false|true||1717-10-01
+5728|{197}|Procès des Sens (Le)|comédie|1|vers|false|false||1732-06-16
+5729|{304}|Rajeunissement inutile (Le)|comédie|3|vers|false|true||1738-09-27
+5730|{110}|Rendez-vous (Le)|comédie|1|vers|false|false||1683-05-06
+5732|{7}|Retour de l'Ombre de Molière (Le)|comédie|1|vers|false|false||1739-11-21
+5733|{184}|Réveil d'Épiménide (Le)|comédie|3|vers|true|false||1735-01-07
+5735|{305}|Rival secrétaire (Le)|comédie|1|vers|true|false||1737-11-12
+5740|{77}|Souper mal apprêté (Le)|comédie|1|vers|false|false||
+5741|{98}|Talisman (Le)|comédie|1|prose|false|true||1726-03-27
+5742|{115}|Temps présent ou le Triomphe du temps présent (Le)|comédie|1|prose|false|true||1724-10-18
+5748|{293}|Acteurs déplacés ou l'Amant comédien (Les)|comédie|1|prose|true|true||1735-10-14
+5751|{307}|Amants déguisés (Les)|comédie|3|prose|false|false||1728-02-07
+5755|{197}|Amusements de l'automne ou les Temples d'Éphèse et de Gnide (Les)|comédie|4|prose|true|true||1725-10-17
+5756|{77}|Bourgeoises de qualité (Les)|comédie|5|vers|false|false||1690-07-26
+5758|{309}|Captifs (Les)|comédie|3|vers|true|true||1714-09-28
+5759|{18}|Caractères de Thalie (Les)|comédie|3|prose / vers|true|true||1737-07-18
+5762|{91}|Courses de Tempé (Les)|pastorale|1|vers|false|true||1734-09-01
+5764|{14}|Eaux de Bourbon (Les)|comédie|1|prose|false|true||1696-10-04
+5767|{159}|Époux réunis ou la Veuve fille et femme (Les)|comédie|5|vers|false|false||1738-10-31
+5768|{2}|Fâcheux (Les)|comédie-ballet|3|vers|true|true||
+5769|{14}|Fêtes du cours (Les)|comédie|1|prose|true|true||1714-09-05
+5775|{266}|Héraclides (Les)|tragédie|5|vers|false|false||1719-12-29
+5777|{312}|Mécontents (Les)|comédie|1|vers|true|true||1734-12-01
+5783|{20}|Philosophes amoureux (Les)|comédie|5|vers|false|false||1729-11-26
+5785|{293,190}|Réjouissances publiques ou le Gratis (Les)|comédie|1|prose|false|true||1729-09-18
+5787|{51}|Serments indiscrets (Les)|comédie|5|prose|false|false||1732-06-08
+5789|{144}|Trois spectacles (Les) ou Polixène, tragédie, L'Avare amoureux, comédie et Pan et Doris, pastorale héroïque|tragédie-comédie-pastorale héroïque|3|prose / vers|true|true||1729-07-06
+5792|{314}|Visionnaires (Les)|comédie|5|vers|false|false||
+5793|{18}|Lucas et Perrette|comédie|1|prose|false|true||1734-11-17
+5794|{224}|Lysimachus|tragédie|5|vers|false|false||1737-12-13
+5797|{315}|Mariamne|tragédie|5|vers|false|false||1725-02-15
+5798|{316}|Marie Stuart|tragédie|5|vers|false|false||1734-05-03
+5800|{49}|Maximien|tragédie|5|vers|false|false||1738-02-28
+5801|{252}|Médus|tragédie|5|vers|false|false||1739-01-12
+5809|{266}|Nitétis|tragédie|5|vers|false|false||1723-02-11
+5811|{98}|Œdipe|tragédie|5|vers|false|false||1726-03-18
+5812|{71}|Œdipe|tragédie|5|vers|false|false||
+5814|{45}|Oreste et Pylade|tragédie|5|vers|false|false||1697-12-11
+5816|{81}|Pandore|comédie|1|vers|false|true||1721-06-13
+5818|{178}|Pélopée|tragédie|5|vers|false|false||1733-07-18
+5819|{236}|Pénélope|tragédie|5|vers|false|false||1684-01-22
+5821|{135}|Pharamond|tragédie|5|vers|false|false||1736-08-14
+5823|{115}|Plutus|comédie|3|vers|false|true||1720-02-01
+5826|{223}|Polixène|tragédie|5|vers|false|false||1696-02-03
+5830|{271}|Régulus|tragédie|5|vers|false|false||1688-01-04
+5832|{98}|Romulus|tragédie|5|vers|false|false||1722-01-08
+5833|{319}|Sabinus et Éponine|tragédie|5|vers|false|false||1734-12-29
+5836|{315}|Saül|tragédie|5|vers|false|false||1705-02-27
+5837|{239}|Scévole|tragédie|5|vers|false|false||
+5839|{262}|Sémiramis|tragédie|5|vers|false|false||1716-02-01
+5840|{64}|Sémiramis|tragédie|5|vers|false|false||1717-04-10
+5843|{45}|Sophonisbe|tragédie|5|vers|false|false||1716-11-10
+5844|{56}|Stilicon|tragédie|5|vers|false|false||
+5847|{227}|Téglis|tragédie|5|vers|false|false||1735-09-19
+5849|{320}|Thélamire|tragédie|5|vers|false|false||1739-07-06
+5852|{178}|Tibère|tragédie|5|vers|false|false||1726-12-13
+5854|{79}|Tontine (La)|comédie|1|prose|false|false||1732-02-20
+5855|{50}|Tiridate|tragédie|5|vers|false|false||1691-02-12
+5866|{49}|Paméla|comédie|5|vers|false|false||1743-12-06
+5869|{270}|Vieillards rajeunis (Les)|comédie|1|vers libre|false|true||1743-11-09
+5872|{322}|Sylvie|tragédie|1|prose|true|false||1741-08-17
+5873|{118}|Embarras du choix (L')|comédie|5|vers|false|false||1741-12-11
+5874|{323}|Bal de Passy (Le)|comédie|1|prose|false|false||1741-08-17
+5875|{47}|Trois rivaux (Les)|comédie|5|vers|false|false||1743-02-04
+5876|{118}|Fête d'Auteuil (La) ou la Fausse méprise|comédie|3|vers libres|false|false||1742-08-23
+5881|{15}|Esther|tragédie|3|vers|true|true||1689-01-26
+5914|{91}|Amant mystérieux (L')|comédie|3|vers|false|false||1734-08-30
+5916|{327}|Quiproquo (Le)|comédie|3|vers|false|false||1743-10-01
